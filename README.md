@@ -1,4 +1,6 @@
 # Walmart Sales Data Analysis
+![Uploading image.png…]()
+
 
 ## About
 
